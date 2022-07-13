@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(218, 186, 226);
+color:white
+}
+
+
+
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ #nav{
+
+display:flex;
+
+ }
+ 
+ ul{
+    display:flex;
+   /* text-decoration:none;
+    list-style: none;*/
+ }
+ li{
+    margin: 0px 50px 50px 50px;
+    padding: 0px;
+    /*text-decoration: none;*/
+ }
+ 
+ a{
+    text-decoration: none;
+    color: rgb(163, 106, 228);
+}
+
+ #about{
+    text-decoration-color: azure;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+ }
+
+ p{
+    width: 500px;
+    
+ }
+img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+
+ 
